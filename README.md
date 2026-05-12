@@ -88,4 +88,4 @@ Combining automation with real-world use cases
 
 
 🙌 Conclusion
-This project showcases how automation can simplify repetitive tasks like code submission, while also demonstrating strong problem-solving skills through competitive programming.
+This project showcases how automation can simplify repetitive tasks like code submission, while also demonstrating strong problem-solving skills through competitive programming
