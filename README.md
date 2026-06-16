@@ -6,7 +6,6 @@ Logged in the account of Codechef and performed a submission without using a web
 author
 bhavna
 
-
 🤖 CodeChef Automation + LEADGAME Solution
 
 
