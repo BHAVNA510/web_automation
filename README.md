@@ -8,7 +8,6 @@ bhavna
 
 🤖 CodeChef Automation + LEADGAME Solution
 
-
 🚀 Project Overview
 
 This project combines automation using Selenium (Python) and a C++ competitive programming solution to streamline the process of logging into CodeChef, navigating to a problem, and submitting code automatically.
